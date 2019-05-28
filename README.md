@@ -3,6 +3,10 @@
 
 ### New feaures tutorial
 
+<a href="https://mybinder.org/v2/gh/glemaitre/scikit-learn-workshop-2019/master">
+  <img src="https://mybinder.org/badge.svg" />
+</a>
+
 This tutorial requires Python 3.5+ as well as,
  - scikit-learn >=0.21.2
  - matplotlib
