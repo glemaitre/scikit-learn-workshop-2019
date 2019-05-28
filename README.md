@@ -1,6 +1,16 @@
 # Annual workshop of the scikit-learn foundation @ Inria
 ## 28 May 2019
 
+### New feaures tutorial
+
+This tutorial requires Python 3.5+ as well as,
+ - scikit-learn >=0.21.2
+ - matplotlib
+ - pandas
+
+The tutorial notebook can be found in 
+[new-features-tutorial/new-features-tutorial.ipynb](https://github.com/glemaitre/scikit-learn-workshop-2019/blob/master/new-features-tutorial/new-features-tutorial.ipynb).
+
 ### Interpretability tutorial
 
 This interpretability tutorial uses some features from scikit-learn which are under-development:
