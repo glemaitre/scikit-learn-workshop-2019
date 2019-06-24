@@ -21,7 +21,7 @@ This interpretability tutorial uses some features from scikit-learn which are un
 
 * DataFrame handling with OpenML datasets:
   https://github.com/scikit-learn/scikit-learn/pull/13902
-* Fast partial dependence plot for Gradient Boosting Decsision Trees:
+* Fast partial dependence plot for Gradient Boosting Desicion Trees:
   https://github.com/scikit-learn/scikit-learn/pull/13769
 * Permutation feature importance:
   https://github.com/scikit-learn/scikit-learn/pull/13146
